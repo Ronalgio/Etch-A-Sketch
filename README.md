@@ -1,0 +1,1 @@
+Project to practice branching and merging, modifying DOM from javascript.
